@@ -1,0 +1,5 @@
+# REPLACE the domain below with the production domain before launch
+User-agent: *
+Allow: /
+
+Sitemap: https://landsharkpools.example/sitemap.xml
